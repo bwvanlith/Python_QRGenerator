@@ -36,7 +36,7 @@ This is a project that is still under development and missing a lot of features.
 
 * Start either one of three python variations (command line, tkinter Gui or PyQt5 Gui)
 * Enter your url or other info and press Generate QR Image
-* Click the save button to save it in the same folder :smile:
+* Click the save button to save the generated image it in the base folder
 
 In the near future I'll add the following features plus whatever requests are expressed:
 * SVG support
